@@ -9,7 +9,7 @@ myArray[1] = true;
 console.log(myArray);
 
 var myArray2 = ["dart", "flutter", "javascript", 10, 3];
-// console.log(myArray2.length);
+console.log(myArray2.length);
 console.log(myArray2.sort());
 console.log(myArray2.reverse());
 
