@@ -9,6 +9,3 @@ console.log("Here increment:"+ myVar++);
 
 var activated =  false;
 
-if(activated) {
-    console.log("heeeeeeeeeeeee");
-}
